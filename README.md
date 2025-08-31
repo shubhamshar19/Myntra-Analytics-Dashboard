@@ -1,4 +1,4 @@
-# Myntra-Analytics-Dashboard
+# Myntra-Analytics-Project
 
 Hii I am Shubham Sharma
 An aspiring data analyst, I applied my SQL, Python (Pandas , Matplotlib), and Power BI
